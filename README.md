@@ -1,2 +1,4 @@
-# Advanced-Time-Series-Forecasting-Using-Seq2Seq-Neural-Networks-with-Attention
-This project uses a Seq2Seq model with attention for multivariate time series forecasting. It includes data cleaning, normalization, and sequence preparation. The attention mechanism improves long-range prediction over LSTM and ARIMA baselines. Performance is evaluated using RMSE, MAE, and MAPE, with clean code and visual results.
+# Advanced Time Series Forecasting Project
+
+This project implements a Seq2Seq model with attention for multivariate time‑series forecasting.
+Contents include preprocessing, model code, training script, and evaluation metrics.
